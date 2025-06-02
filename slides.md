@@ -230,6 +230,10 @@ Track user interactions
   .slidev-icon {
     @apply w-10 h-10;
   }
+
+  .slidev-code {
+    background-color: rgb(27, 27, 27);
+  }
 </style>
 
 ---
