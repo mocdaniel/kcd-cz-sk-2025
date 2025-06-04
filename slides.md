@@ -560,8 +560,10 @@ I hope it was interesting
 
 ## Slides
 
-<img src="/public/slides-qr.svg" alt="QR code for slides.dbodky.me/kcd-cz-sk-2025" class="h-40 w-40 m-b-10"/>
+<img src="/slides-qr.svg" alt="QR code for slides.dbodky.me/kcd-cz-sk-2025" class="h-40 w-40 m-b-10"/>
 
 ## Feedback
+
+<img src="/feedback-qr.svg" alt="QR code for feedback.dbodky.me" class="h-40 w-40 m-b-10" />
 
 </div>
