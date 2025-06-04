@@ -548,7 +548,7 @@ I hope it was interesting
 
 📊 **Slides**: [slides.dbodky.me/kcd-cz-sk-2025](https://slides.dbodky.me/kcd-cz-sk-2025)
 
-<fa6-brands-github /> **Adjusted Demo**: [mocdaniel/alloy-otel-demo](https://github.com/mocdaniel/alloy-otel-demo)
+<fa6-brands-github /> **Adjusted Demo**: [mocdaniel/opentelemetry-demo](https://github.com/mocdaniel/opentelemetry-demo)
 
 📚 **Alloy Docs**: [grafana.com/docs/alloy](https://grafana.com/docs/alloy)
 
