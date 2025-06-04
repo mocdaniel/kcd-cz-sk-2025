@@ -554,6 +554,14 @@ I hope it was interesting
 
 🌐 **Website**: [dbodky.me/#contact](https://dbodky.me/#contact)
 
+👍 **Feedback**: [feedback.dbodky.me](https://feedback.dbodky.me) 
+
+<div class="m-l-6 m-t--2" >
+
+  Code: `CZSK-OTEL`
+
+</div>
+
 ::right::
 
 <div class="h-full flex flex-col items-center m-x-auto">
