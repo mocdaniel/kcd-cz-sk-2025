@@ -86,7 +86,7 @@ An open observability standard
 - Provides **tools, APIs**, and **SDKs** to **collect, process**,
   and **export** telemetry data
 - **Vendor-Neutral** and **standardized**
-- **Tracks** and **communicates** progress of the project's progress on the [OpenTelemetry website](https://opentelemetry.io)
+- **Tracks** and **communicates** progress of the project's components on the [OpenTelemetry website](https://opentelemetry.io)
 
 ::right::
 
@@ -259,6 +259,23 @@ Insights into performance and behavior
 </div>
 
 ---
+
+# OTel Instrumentation
+
+SDKs and APIs
+
+<br />
+
+_For a system to be observable, it must be **instrumented**: that is, code from the system's components must emit signals, such as traces, metrics, and logs._ - [OTel Docs](https://opentelemetry.io/docs/concepts/instrumentation/)
+
+<br />
+
+- Two complementary strategies of instrumentation exist:
+  - **Code-based**: deeper insights, rich telemetry from within the application itself
+  - **Zero-code**: great for getting started or can't modify the application itself
+- SDKs and APIs exist for various languages, in varying degrees of stability
+
+---
 layout: section
 ---
 
@@ -311,23 +328,6 @@ Stand on the shoulders of giants
   - ...**additional capabilities** (auth, config management, etc.)
   - ...changes to **default settings**
   - ...**vendor-specific** receivers or exporters
-
----
-
-# OTel Instrumentation
-
-SDKs and APIs
-
-<br />
-
-_For a system to be observable, it must be **instrumented**: that is, code from the system's components must emit signals, such as traces, metrics, and logs._ - [OTel Docs](https://opentelemetry.io/docs/concepts/instrumentation/)
-
-<br />
-
-- Two complementary strategies of instrumentation exist:
-  - **Code-based**: deeper insights, rich telemetry from within the application itself
-  - **Zero-code**: great for getting started or can't modify the application itself
-- SDKs and APIs exist for various languages, in varying degrees of stability
 
 ---
 layout: section
